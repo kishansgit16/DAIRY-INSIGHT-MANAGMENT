@@ -24,7 +24,7 @@ create TABLE products(
     animal_id INT,
     product_type VARCHAR(10),
     Quantity VARCHAR(10),
-  drop
+  
 );
 create TABLE sales(
     product_id INT,
